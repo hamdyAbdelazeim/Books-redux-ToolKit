@@ -1,0 +1,18 @@
+{
+  "books": [
+    {
+      "id": "4b6e-1",
+      "title": "Learn JavaScript",
+      "description": "Learn JavaScript for free",
+      "price": "200",
+      "name": "Hamdy Abdelazim"
+    },
+    {
+      "id": "4b6e-5",
+      "title": "Learn TypeScript",
+      "description": "Get started with TypeScript for better JavaScript development",
+      "price": "220",
+      "name": "Hamdy Abdelazim"
+    }
+  ]
+}
